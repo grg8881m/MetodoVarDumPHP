@@ -1,0 +1,5 @@
+  #Variable númerica
+    $numero = 5;
+    echo "Esto es una variable número : $numero<br>";
+
+    var_dump($numero);
